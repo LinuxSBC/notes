@@ -53,4 +53,15 @@ mode: single
 
 You can find a blueprint of it at https://gist.github.com/LinuxSBC/8cb8a601be78818ce19f5c2328374071. 
 
+## Devices
 
+Power monitoring: https://www.amazon.com/Emporia-Monitor-Circuit-Electricity-Metering/dp/B08CJGPHL9?th=1 is high-quality, works with HA, can be easily flashed with ESPHome, and is cheaper than more open alternatives.
+
+Smart plugs: Several options, but the [Kauf PLF12](https://www.amazon.com/dp/B0BKR2CMJN)is cheap and pre-flashed. It also has power monitoring.
+
+Companies to look at:
+- Martin Jerry (cheap, consistent, pre-flashed switches with a range of options like dimmer and 3-way)
+- ATHOM (lots of pre-flashed options)
+- Cloudfree (a variety)
+
+Virage Labs was great, but they're now dead.
